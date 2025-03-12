@@ -1,2 +1,1 @@
-##emergency tracker 
-## app icon
+##emergency tracker
